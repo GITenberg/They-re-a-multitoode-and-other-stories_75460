@@ -1,0 +1,41 @@
+_repo: They-re-a-multitoode-and-other-stories_75460
+_version: 0.0.1
+alternative_title: '"They''re a multitude" and other stories'
+contributor:
+  compiler:
+    agent_name: Stephenson, F. C. (Frederick Clarke)
+    alias: Stephenson, Frederick Clarke
+    birthdate: 1864
+    deathdate: 1941
+    gutenberg_agent_id: '58010'
+    url: http://www.gutenberg.org/2009/agents/58010
+description: ''
+gutenberg_issued: '2025-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75460'
+language: en
+pgterms:marc905: 20090925154735stephenson
+pgterms:marc906: '1912'
+pgterms:marc907: ca
+production_note: Steven desJardins and the Online Distributed Proofreading Team at
+  https://www.pgdp.net
+publication_note: '  $aToronto :$bThe Missionary Society of the Methodist Church,
+  $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Methodist Church -- Missions -- China'
+- !lcc 'BV'
+- GITenberg
+tableOfContents: '"They''re a multitoode" -- The penny ye meant to gi''e -- Rue''s
+  heathen -- How Yin-Dee changed her name -- David Livingstone, by a fellow-townsman
+  -- Christmas in our boys'' school, Junghsien, West China, by Edward Wilson Wallace
+  -- God wants them all -- Li Liang Chen: student, soldier, trader, evangelist, by
+  J.L. Stewart -- Bo and Nare, or found out -- Results of a one-cent investment in
+  one of our country Sunday Schools -- The schoolmaster''s lesson -- Liu Tsi Chuin:
+  rioter and evangelist, by J.L. Stewart -- Where do you live? -- A Bible for a pistol:
+  a true story -- The giving alphabet.'
+title: '"They''re a multitoode" and other stories'
+url: http://www.gutenberg.org/ebooks/75460
