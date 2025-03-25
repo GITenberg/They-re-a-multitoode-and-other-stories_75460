@@ -9,7 +9,12 @@ contributor:
     deathdate: 1941
     gutenberg_agent_id: '58010'
     url: http://www.gutenberg.org/2009/agents/58010
+covers:
+- cover_type: archival
+  image_path: 75460-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75460#They-re-a-multitoode-and-other-stories
 gutenberg_issued: '2025-02-24'
 gutenberg_type: Text
 identifiers:
